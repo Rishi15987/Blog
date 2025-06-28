@@ -1,6 +1,5 @@
 package Heaps.Easy;
 
-import java.lang.reflect.Array;
 import java.util.ArrayList;
 
 class Heap<T extends Comparable<T>> {
