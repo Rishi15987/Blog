@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class sortc_olour {
+public class sortcolour {
     public static void main(String[] args) {
         int [] nums = {2,0,2,1,1,0};
         sortColors(nums);
